@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longlinga&show_icons=true&theme=shadow_blue)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longlinga&layout=compact&card_width=467)](https://github.com/Longlinga/SwitchConfigurationSearch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longlinga&layout=compact&card_width=467)]
 
 
 
